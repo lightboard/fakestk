@@ -24,9 +24,9 @@
     "should": "*"
   },
   "dependencies": {
-    "mustache": "~0.8.0",
-    "temporary": "0.0.8",
     "minimist": "0.0.5",
-    "moment": "^2.6.0"
+    "moment": "^2.6.0",
+    "mustache": "~0.8.0",
+    "temp": "^0.8.3"
   }
 }
