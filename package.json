@@ -1,7 +1,7 @@
 {
   "name": "fakestk",
-  "version": "0.5.0-1",
-  "description": "CUI Adobe ExtendScript runner. Accept script file or stdin. currently osx only",
+  "version": "0.5.0-2",
+  "description": "CUI Adobe ExtendScript runner. Accept script file or stdin. currently  osx only",
   "main": "index.js",
   "bin": "cmd.js",
   "scripts": {
